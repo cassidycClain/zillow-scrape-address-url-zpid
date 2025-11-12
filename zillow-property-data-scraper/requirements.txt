@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+
+zillow-property-data-scraper/.keep
+textPlaceholder for keeping the directory structure intact. This directory contains no code files.
